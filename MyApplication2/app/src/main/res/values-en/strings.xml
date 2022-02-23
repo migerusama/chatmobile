@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="campoObligatorio">Required field</string>
+    <string name="userTaken">User is already taken</string>
+    <string name="incorrectUserPass">User or password are incorrect</string>
+    <string name="userIncorrect">Username incorrect,must be between 3 and 20 characters</string>
+    <string name="passIncorrect">Password incorrect,must be between 6 and 18 characters</string>
+</resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Wasaaaaaap</string>
-    <string name="username">USERNAME</string>
-    <string name="password">PASSWORD</string>
-    <string name="sign_up">SIGN UP</string>
-    <string name="login">LOGIN</string>
-    <string name="campoObligatorio">Campo obligatorio</string>
-</resources>
